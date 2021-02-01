@@ -1,7 +1,7 @@
 {
   "darwin-x64-prod": {
-    "update": "https://github.com/sidechat/sidechat-releases/releases/download/darwin-x64-prod-1.0.0/release.json",
-    "install": "https://github.com/sidechat/sidechat-releases/releases/download/darwin-x64-prod-1.0.0/Sidechat-1.0.0.dmg",
-    "version": "1.0.0"
+    "update": "https://github.com/sidechat/sidechat-releases/releases/download/darwin-x64-prod-1.0.1/release.json",
+    "install": "https://github.com/sidechat/sidechat-releases/releases/download/darwin-x64-prod-1.0.1/Sidechat-1.0.1.dmg",
+    "version": "1.0.1"
   }
 }
